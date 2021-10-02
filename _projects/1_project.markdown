@@ -2,7 +2,7 @@
 layout: page
 title: Cross-Pipeline Reliability
 description: 
-img: /assets/img/project1_header.jpg
+img: /assets/img/project1_header.png
 importance: 1
 category: research
 ---
