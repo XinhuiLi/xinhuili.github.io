@@ -8,11 +8,11 @@ nav: true
 
 ### journal articles
 
-Wang, X., **Li, X.,** Cho, J. W., Russ, B., Rajamani, N., Omelchenko, A., Ai, L., Korchmaros, A., Garcia, P., Wang, Z., Kalin, N. H., Schroeder, C. E., Craddock, C., Fox, A. S., Evans, A., Messinger, A., Milham, M. P., & Xu, T. (2021). **U-net model for brain extraction: Trained on humans for transfer to non-human primates.** NeuroImage. [[paper](https://www.sciencedirect.com/science/article/pii/S1053811921002780)]
+Wang, X., **Li, X.,** Cho, J. W., Russ, B., Rajamani, N., Omelchenko, A., Ai, L., Korchmaros, A., Garcia, P., Wang, Z., Kalin, N. H., Schroeder, C. E., Craddock, C., Fox, A. S., Evans, A., Messinger, A., Milham, M. P., & Xu, T. (2021). **U-net model for brain extraction: Trained on humans for transfer to non-human primates.** NeuroImage. [[paper](https://www.sciencedirect.com/science/article/pii/S1053811921002780)] [[code](https://github.com/HumanBrainED/NHP-BrainExtraction)]
 
 Thakoor, K. A., **Li, X.,** Tsamis, E., Zemborain, Z. Z., Moraes, C. G. D., Sajda, P., & Hood, D. C. (2021). **Strategies to Improve Convolutional Neural Network Generalizability for Glaucoma Detection from OCT Scans.** Translational Vision Science and Technology. [[paper](https://tvst.arvojournals.org/article.aspx?articleid=2772481)]
 
-Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. (2019). **Enhancing the Accuracy of Glaucoma Detection from OCT Probability Maps using Convolutional Neural Networks.** 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2036–2040. https://doi.org/10.1109/EMBC.2019.8856899 [[paper](https://doi.org/10.1109/EMBC.2019.8856899)]
+Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. (2019). **Enhancing the Accuracy of Glaucoma Detection from OCT Probability Maps using Convolutional Neural Networks.** 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2036–2040. https://doi.org/10.1109/EMBC.2019.8856899 [[paper](https://doi.org/10.1109/EMBC.2019.8856899)] [[code](https://github.com/kavi2015/embc2019)]
 
 ---
 
