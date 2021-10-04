@@ -1,11 +1,11 @@
 ---
 layout: post
 title: C-PAC OpenTutorials Talk
-date: 2021-10-02 00:00:00-0400
+date: 2021-10-01 00:00:00-0400
 inline: false
 ---
 
-Invited by [Chinese Open Science Network](https://open-sci.cn/), I will give a talk about our MRI processing pipeline [C-PAC](https://fcp-indi.github.io/) followed by a hands-on tutorial. Look forward to seeing you there!
+Invited by [Chinese Open Science Network](https://open-sci.cn/), I will give a talk about our MRI preprocessing and analysis pipeline [C-PAC](https://fcp-indi.github.io/) followed by a hands-on tutorial. Look forward to seeing you there!
 
 ---
 Language: Chinese
