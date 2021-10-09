@@ -47,4 +47,8 @@ Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. <br />
 <br />
 **fMRI Preprocessing with Containers: How to run C-PAC with Docker and Singularity.**<br />
 **Li, X.**, & Jin, H. <br />
-Brainhack Global, New York, November 2019. [[oral presentation](/assets/poster/brainhack19.pdf)]
+Brainhack Global, New York, November 2019. [[slides](/assets/poster/brainhack19.pdf)]
+
+**C-PAC: A flexible and ease-of-use MRI preprocessing and analysis toolbox.**<br />
+**Li, X.**, & Jin, H. <br />
+OpenTutorials, October 2021. [[github](https://github.com/XinhuiLi/OpenTutorials)] [[slides](https://github.com/XinhuiLi/OpenTutorials/blob/main/C-PAC_OpenTutorials_slides.pdf)]
