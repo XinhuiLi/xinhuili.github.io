@@ -9,6 +9,10 @@ nav: true
 ---
 ### journal articles 
 <br />
+**Toward next-generation primate neuroscience: A collaboration-based strategic plan for integrative neuroimaging.** <br />
+Milham, M. P., ... **Li, X.,** ... <br /> 
+Neuron (2021). [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0896627321007832?dgcid=author)]
+
 **U-net model for brain extraction: Trained on humans for transfer to non-human primates.** <br />
 Wang, X., **Li, X.,** Cho, J. W., Russ, B., Rajamani, N., Omelchenko, A., Ai, L., Korchmaros, A., Garcia, P., Wang, Z., Kalin, N. H., Schroeder, C. E., Craddock, C., Fox, A. S., Evans, A., Messinger, A., Milham, M. P., & Xu, T. <br /> 
 NeuroImage (2021). [[paper](https://www.sciencedirect.com/science/article/pii/S1053811921002780)] [[code](https://github.com/HumanBrainED/NHP-BrainExtraction)]
@@ -45,10 +49,10 @@ Thakoor, K. A., **Li, X.,** Tsamis, E., Sajda, P., & Hood, D. C. <br />
 
 ### talks 
 <br />
+**C-PAC: A flexible and ease-of-use MRI preprocessing and analysis toolbox.**<br />
+**Li, X.**, & Jin, H. <br />
+OpenTutorials, October 2021. [[talk](https://www.bilibili.com/video/BV1T7411U7KK?p=17)] [[github](https://github.com/XinhuiLi/OpenTutorials)] [[slides](https://github.com/XinhuiLi/OpenTutorials/blob/main/C-PAC_OpenTutorials_slides.pdf)]
+
 **fMRI Preprocessing with Containers: How to run C-PAC with Docker and Singularity.**<br />
 **Li, X.**, & Jin, H. <br />
 Brainhack Global, New York, November 2019. [[slides](/assets/poster/brainhack19.pdf)]
-
-**C-PAC: A flexible and ease-of-use MRI preprocessing and analysis toolbox.**<br />
-**Li, X.**, & Jin, H. <br />
-OpenTutorials, October 2021. [[github](https://github.com/XinhuiLi/OpenTutorials)] [[slides](https://github.com/XinhuiLi/OpenTutorials/blob/main/C-PAC_OpenTutorials_slides.pdf)]
