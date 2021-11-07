@@ -18,4 +18,4 @@ I am a first-year Ph.D. student in Bioengineering (Electrical and Computer Engin
 
 Before I started my Ph.D., I worked as a research engineer at [the Child Mind Institute](https://childmind.org/), where I developed a software pipeline [C-PAC](https://fcp-indi.github.io/) for MRI preprocessing and analysis.
 
-I am open to collaboration opportunities so please feel free to reach out!
+Please feel free to reach out if you have any questions about my work or would like to discuss collaboration opportunities.
