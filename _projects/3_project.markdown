@@ -3,6 +3,7 @@ layout: page
 title: AI for Visual Science
 description: 
 img: /assets/img/project3_header.png
+redirect: https://doi.org/10.1109/EMBC.2019.8856899
 importance: 3
 category: research
 ---

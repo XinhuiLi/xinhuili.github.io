@@ -3,6 +3,7 @@ layout: page
 title: U-Net Tissue Segmentation
 description: 
 img: /assets/img/project2_header.png
+redirect: https://nibs-workshop.umn.edu/sites/nibs-workshop.umn.edu/files/2021-06/Xinhui_Li.pdf
 importance: 2
 category: research
 ---
