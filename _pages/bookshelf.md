@@ -2,7 +2,7 @@
 layout: page
 title: bookshelf
 description: light in my life
-nav: true
+nav: false
 ---
 
 | Book | &emsp; Author | &emsp; Year |
