@@ -1,6 +1,7 @@
 ---
 layout: page
 title: bookshelf
+permalink: /bookshelf/
 description: light in my life
 nav: true
 ---
