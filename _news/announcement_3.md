@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-12-03 00:13:00-1400
+date: 2022-02-15 23:00:00-0000
 inline: true
 ---
 
-[New Preprint "Moving Beyond Processing and Analysis-Related Variation in Neuroscience"](https://www.biorxiv.org/content/10.1101/2021.12.01.470790v1)
+I am honored to be a scholar in the [Georgia Tech/Emory Computational Neuralengineering Training Program](https://cntp.bme.gatech.edu/).

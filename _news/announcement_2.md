@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-11-23 00:00:00-0100
+date: 2021-12-03 00:13:00-1400
 inline: true
 ---
 
-I will work as the website and communications manager elect in OHBM BrainArt SIG!
+[New Preprint "Moving Beyond Processing and Analysis-Related Variation in Neuroscience"](https://www.biorxiv.org/content/10.1101/2021.12.01.470790v1)
