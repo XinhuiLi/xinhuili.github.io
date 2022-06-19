@@ -10,7 +10,7 @@ nav: true
 
 "The viewpoint described in this book is the result of my conviction that the nervous system of even a very simple animal contains computing paradigms that are orders of magnitude more effective than are those found in systems made by humans." 
 
-To me, the opening line of the book sounds an irrefutable fact, an unsolved mystery, and one of the most challenging missions in the post Moore’s law era.  As a pioneer of neuromorphic computing, Carver explained the connections between neural circuits and electrical circuits, and described his attempts to develop computationally efficient VLSI inspired by the organizing principles of neural systems.
+To me, the opening line of the book sounds an existing fact, an unsolved mystery, and one of the most challenging missions in the post Moore’s law era.  As a pioneer of neuromorphic computing, Carver explained the connections between neural circuits and electrical circuits, and described his attempts to develop computationally efficient VLSI inspired by the organizing principles of neural systems.
 
 ---
 
