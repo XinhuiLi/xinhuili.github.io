@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description:
 nav: true
-display_categories: [research, software development]
+display_categories: [research, software, art]
 horizontal: false
 ---
 <div class="projects">

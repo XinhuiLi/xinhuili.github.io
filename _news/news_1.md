@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-11-23 00:00:00-0100
+date: 2022-07-16 00:00:00-0100
 inline: true
 ---
 
-I will work as the website and communications manager elect in OHBM BrainArt SIG!
+I start working as the website and communications manager in the OHBM BrainArt Special Interest Group! I hope to promote communication between neuroscientists and artists, and ultimately promote the interaction between neuroscience and art.
