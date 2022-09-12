@@ -4,4 +4,4 @@ date: 2022-02-15 23:00:00-0000
 inline: true
 ---
 
-Honored to be a scholar in the [Georgia Tech/Emory Computational Neuralengineering Training Program](https://cntp.bme.gatech.edu/)
+Honored to be a scholar in the [Georgia Tech/Emory Computational Neural Engineering Training Program](https://cntp.bme.gatech.edu/)
