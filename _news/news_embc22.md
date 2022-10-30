@@ -1,7 +1,7 @@
 ---
 layout: post
 title: I will be presenting 2 projects at EMBC 2022
-date: 2022-06-19 16:11:00-0400
+date: 2022-07-11 16:11:00-0400
 inline: false
 ---
 
