@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: assets/cv/XinhuiLi-CV-09-22.pdf
+permalink: assets/cv/XinhuiLi-CV-01-23.pdf
 title: cv
 description: 
 nav: true

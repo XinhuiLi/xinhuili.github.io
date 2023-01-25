@@ -16,11 +16,19 @@ Yet it is not these gifts, nor the most determined ambition combined with irresi
 
 ---
 
+[When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air) by Paul Kalanithi
+
+"One could count on V to always choose the honest (and, often, self-effacing) way forward. While most scientists connived to publish in the most prestigious journals and get their names out there, V maintained that our only obligation was to be authentic to the scientific story and to tell it uncompromisingly. I'd never met someone so successful who was also so committed to goodness. V was an actual paragon."
+
+Krishna V Shenoy, light forever.
+
+---
+
 [Analog VLSI and Neural Systems](https://www.amazon.com/Analog-VLSI-Neural-Systems-Carver/dp/0201059924) by Carver Mead
 
 "The viewpoint described in this book is the result of my conviction that the nervous system of even a very simple animal contains computing paradigms that are orders of magnitude more effective than are those found in systems made by humans." 
 
-To me, the opening line of the book sounds like an undeniable fact, an unsolved mystery, and one of the most challenging missions in the post Moore’s law era.  As a pioneer of neuromorphic computing, Carver explained the connections between neural circuits and electrical circuits, and described his attempts to develop computationally efficient VLSI inspired by the organizing principles of neural systems.
+To me, the opening line of the book sounds like an undeniable fact, an unsolved mystery, and one of the most challenging missions in the post Moore's law era. As a pioneer of neuromorphic computing, Carver explained the connections between neural circuits and electrical circuits, and described his attempts to develop computationally efficient VLSI inspired by the organizing principles of neural systems.
 
 ---
 
