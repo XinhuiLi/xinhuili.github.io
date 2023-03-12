@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I will be presenting 3 posters at OHBM 2022
+title: I presented 3 posters at OHBM 2022
 date: 2022-06-19 16:11:00-0400
 inline: false
 ---
