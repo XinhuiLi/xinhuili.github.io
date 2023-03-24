@@ -3,7 +3,7 @@ layout: page
 title: Inter-Pipeline Agreement
 description: 
 img: /assets/img/project1_header.png
-redirect: https://www.biorxiv.org/content/10.1101/2021.12.01.470790v1
+redirect: https://www.biorxiv.org/content/10.1101/2021.12.01.470790v2
 importance: 1
 category: research
 ---
