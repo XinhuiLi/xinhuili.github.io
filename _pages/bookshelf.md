@@ -65,3 +65,7 @@ Known as the inventor of optogenetics, Karl described his personal stories with 
 ---
 
 [A Thousand Brains](https://numenta.com/a-thousand-brains-by-jeff-hawkins) by Jeff Hawkins
+
+---
+
+[You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
