@@ -6,8 +6,8 @@ description:
 
 profile:
   align: right
-  image: XinhuiLi-pic.png
-  address: 
+  image: Xinhui_CactusSimpson.png
+  address: Me and Cactus Simpson, Huntington Garden, Spring 2023
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -18,4 +18,4 @@ I am a second-year Ph.D. student in Electrical and Computer Engineering at the G
 
 I used to be an engineer dreaming to connect brains and computers, now I am growing as a scientist attempting to solve fundamental questions in neuroscience and computer science. My current research interests include multimodal neuroimaging and unsupervised representation learning. To better understand different aspects of brains, I am developing a multidataset subspace analysis framework including both linear and nonlinear latent variable models to identify linked sources from multimodal neuroimaging datasets. Apart from my job, I am curious about biological and artificial intelligent algorithms and systems. I believe that understanding principles of neural computation will help us to develop more flexible artificial intelligence algorithms and build more energy-efficient machines.
 
-Please feel free to reach out if you want to discuss any questions or collaboration opportunities. I would also like to hear your [feedback](https://forms.gle/rbkPYpf9LxscFWhc7) so I can learn and grow.
+I feel grateful to have genuine and inspiring collaborators along my scientific journey, especially my partner [Yannan](https://yannan-chen.github.io/index.html), who always reminds me to "focus on pursuing a fundamental understanding of the natural world". Please feel free to reach out if you want to discuss any questions or collaboration opportunities. I would also love to hear your [feedback](https://forms.gle/rbkPYpf9LxscFWhc7) so I can learn and grow.

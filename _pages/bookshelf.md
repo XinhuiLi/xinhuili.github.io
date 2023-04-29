@@ -18,9 +18,9 @@ Yet it is not these gifts, nor the most determined ambition combined with irresi
 
 [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air) by Paul Kalanithi
 
-I started to read When Breath Becomes Air after Krishna Shenoy's passing. When I was obssessed with BCI, I always found the work from his lab inspiring and exciting. Krishna was a brilliant mentor, scientist and engineer. He is that person I want to be. Paul was a resident at Krishna's lab, as he said,
+I started to read When Breath Becomes Air after [Krishna Shenoy](https://www.nature.com/articles/s41593-023-01294-8)'s passing. When I was obssessed with BCI, I always found the work from his lab inspiring and exciting. Krishna was a brilliant mentor, scientist and engineer. He is that person I want to be. Paul was a resident at Krishna's lab, as he said,
 
-"One could count on V to always choose the honest (and, often, self-effacing) way forward. While most scientists connived to publish in the most prestigious journals and get their names out there, V maintained that our only obligation was to be authentic to the scientific story and to tell it uncompromisingly. I'd never met someone so successful who was also so committed to goodness. V was an actual paragon."
+"One could count on V to always choose the honest (and, often, self-effacing) way forward. While most scientists connived to publish in the most prestigious journals and get their names out there, V maintained that our only obligation was to be authentic to the scientific story and to tell it uncompromisingly."
 
 At the beginning I wanted to learn about Krishna's stories from his book, but then I was deeply touched by Paul's stories. Paul described his experience after he was diagnosed with lung cancer in his thirties. His pursuit of the meaning of life, his belief in the value of literature, and his realistic idealism deeply resonate with me.
 
