@@ -12,13 +12,13 @@ This unique power is in no way a privilege given to 'exceptional talents' – pe
 
 Yet it is not these gifts, nor the most determined ambition combined with irresistible will-power, that enables one to surmount the 'invisible yet formidable boundaries' that encircle our universe. Only innocence can surmount them, which mere knowledge doesn't even take into account, in those moments when we find ourselves able to listen to things, totally and intensely absorbed in child's play."
 
-— Alexander Grothendieck
+<div style="text-align: right"> — Alexander Grothendieck</div>
 
 ---
 
 [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air) by Paul Kalanithi
 
-I started to read When Breath Becomes Air after [Krishna Shenoy](https://www.nature.com/articles/s41593-023-01294-8)'s passing. When I was obssessed with BCI, I always found the work from his lab inspiring and exciting. Krishna was a brilliant mentor, scientist and engineer. He is that person I want to be. Paul was a resident at Krishna's lab, as he said,
+I started to read When Breath Becomes Air after [Krishna Shenoy](https://www.nature.com/articles/s41593-023-01294-8)'s passing. When I was obssessed with brain-computer interfaces, I always found the work from his lab inspiring and exciting. Krishna was a brilliant mentor, scientist and engineer. He is that person I want to be. Paul was a resident at Krishna's lab, as he said,
 
 "One could count on V to always choose the honest (and, often, self-effacing) way forward. While most scientists connived to publish in the most prestigious journals and get their names out there, V maintained that our only obligation was to be authentic to the scientific story and to tell it uncompromisingly."
 
