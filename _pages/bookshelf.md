@@ -69,3 +69,7 @@ Known as the inventor of optogenetics, Karl described his personal stories with 
 ---
 
 [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
+
+---
+
+[The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
