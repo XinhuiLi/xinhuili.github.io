@@ -6,6 +6,6 @@ inline: true
 
 Two papers are accepted at [ISBI 2023](http://2023.biomedicalimaging.org/en/): 
 
-- Evaluating trade-offs in IVA of multimodal neuroimaging using cross-platform multidataset independent subspace analysis (oral)
+- [Evaluating trade-offs in IVA of multimodal neuroimaging using cross-platform multidataset independent subspace analysis](https://ieeexplore.ieee.org/document/10230492) (oral)
 
-- Multimodal subspace independent vector analysis better captures hidden relationships in multimodal neuroimaging data
+- [Multimodal subspace independent vector analysis better captures hidden relationships in multimodal neuroimaging data](https://ieeexplore.ieee.org/document/10230605)

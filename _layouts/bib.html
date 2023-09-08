@@ -98,11 +98,11 @@
     {% if entry.html %}
       <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
     {% endif %}
-    {% if entry.pdf %}
-      {% if entry.pdf contains '://' %}
-      <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+    {% if entry.paper %}
+      {% if entry.paper contains '://' %}
+      <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Paper</a>
       {% else %}
-      <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      <a href="{{ entry.paper | prepend: '/assets/paper/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Paper</a>
       {% endif %}
     {% endif %}
     {% if entry.supp %}
@@ -120,6 +120,9 @@
     {% endif %}
     {% if entry.talk %}
     <a href="{{ entry.talk }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Talk</a>
+    {% endif %}
+    {% if entry.tutorial %}
+    <a href="{{ entry.tutorial }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Tutorial</a>
     {% endif %}
     {% if entry.poster %}
       {% if entry.poster contains '://' %}
