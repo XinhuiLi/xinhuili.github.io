@@ -6,8 +6,8 @@ description:
 
 profile:
   align: right
-  image: Xinhui_CactusSimpson.png
-  address: Me and Cactus Simpson, Huntington Garden, Spring 2023
+  image: Xinhui1023.jpg
+  address: 
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
