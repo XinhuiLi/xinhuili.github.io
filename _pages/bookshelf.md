@@ -34,27 +34,19 @@ I become more determined and fearless to continue Krishna's, Paul's, and many ot
 
 ---
 
-[Analog VLSI and Neural Systems](https://www.amazon.com/Analog-VLSI-Neural-Systems-Carver/dp/0201059924) by Carver Mead
+[Being Mortal](https://www.goodreads.com/en/book/show/20696006) by Atul Gawande
 
-"The viewpoint described in this book is the result of my conviction that the nervous system of even a very simple animal contains computing paradigms that are orders of magnitude more effective than are those found in systems made by humans." 
-
-To me, the opening line of the book sounds like an undeniable fact, an unsolved mystery, and one of the most challenging missions in the post Moore's law era. As a pioneer of neuromorphic computing, Carver explained the connections between neural circuits and electrical circuits, and described his attempts to develop computationally efficient VLSI inspired by the organizing principles of neural systems.
+Sooner or later, we all need to learn how to say goodbye to our loved ones.
 
 ---
 
-[Principles of Neural Design](https://mitpress.mit.edu/books/principles-neural-design) by Peter Sterling and Simon Laughlin
+[The Worlds I See](https://www.goodreads.com/en/book/show/144405196) by Fei-Fei Li
 
-Ten principles of neural design to shed light on how brains use space and power efficiently.
-
----
-
-[Vision](https://mitpress.mit.edu/books/vision) by David Marr
-
-Creative and in-depth work to understand visual perception.
+Fei Fei's personal journey made me believe once more how far curiosity can lead one to explore.
 
 ---
 
-[Projections](https://www.amazon.com/Projections-Story-Emotions-Karl-Deisseroth/dp/1984853694) by Karl Deisseroth
+[Projections](https://www.goodreads.com/en/book/show/55411738) by Karl Deisseroth
 
 Known as the inventor of optogenetics, Karl described his personal stories with psychiatric patients in poetic language. It reminds me that what I am working with every day are not just data points, but unique individuals with their struggles.
 
@@ -65,6 +57,25 @@ Known as the inventor of optogenetics, Karl described his personal stories with 
 ---
 
 [A Thousand Brains](https://numenta.com/a-thousand-brains-by-jeff-hawkins) by Jeff Hawkins
+
+---
+[Analog VLSI and Neural Systems](https://www.goodreads.com/en/book/show/1712205) by Carver Mead
+
+"The viewpoint described in this book is the result of my conviction that the nervous system of even a very simple animal contains computing paradigms that are orders of magnitude more effective than are those found in systems made by humans." 
+
+To me, the opening line of the book sounds like an undeniable fact, an unsolved mystery, and one of the most challenging missions in the post Moore's law era. As a pioneer of neuromorphic computing, Carver explained the connections between neural circuits and electrical circuits, and described his attempts to develop computationally efficient VLSI inspired by the organizing principles of neural systems.
+
+---
+
+[Principles of Neural Design](https://mitpress.mit.edu/books/principles-neural-design) by Peter Sterling and Simon Laughlin
+
+Principles of neural design to shed light on how brains use space and power efficiently.
+
+---
+
+[Vision](https://mitpress.mit.edu/books/vision) by David Marr
+
+Creative and comprehensive work to understand visual perception.
 
 ---
 
