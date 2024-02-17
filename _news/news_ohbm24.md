@@ -4,8 +4,10 @@ date: 2024-01-19 15:00:00-0000
 inline: true
 ---
 
-Our educational course on scientific communication and abstract on DeepIVA are accepted at [OHBM 2024](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229). Looking forward to visiting Seoul!
+At [OHBM 2024](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229), I will be presenting: 
 
-<!-- - Educational Course: Communicating neuroscience across peoples, languages, and cultures -->
+- Educational Course: Communicating neuroscience across peoples, languages, and cultures
 
-<!-- - Abstract: Deep independent vector analysis learns linked and identifiable sources from multimodal data -->
+- Poster Session: Deep independent vector analysis learns linked and identifiable sources from multimodal data
+
+- BrainArt Exhibition: Schizosymphony
