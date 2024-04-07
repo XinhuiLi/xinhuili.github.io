@@ -4,7 +4,7 @@ date: 2024-01-19 15:00:00-0000
 inline: true
 ---
 
-At [OHBM 2024](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229), I will be presenting: 
+At [OHBM 2024](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=4229), I will present: 
 
 - Educational Course: Communicating neuroscience across peoples, languages, and cultures
 
