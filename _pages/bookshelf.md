@@ -36,7 +36,7 @@ I become more determined and fearless to continue Krishna's, Paul's, and many ot
 
 [Being Mortal](https://www.goodreads.com/en/book/show/20696006) by Atul Gawande
 
-Sooner or later, we all need to learn how to say goodbye to our loved ones.
+Sooner or later, we all have to learn how to say goodbye to our loved ones.
 
 ---
 
