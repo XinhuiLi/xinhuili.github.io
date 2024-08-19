@@ -124,6 +124,9 @@
     {% if entry.tutorial %}
     <a href="{{ entry.tutorial }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Tutorial</a>
     {% endif %}
+    {% if entry.art %}
+    <a href="{{ entry.art }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Art</a>
+    {% endif %}
     {% if entry.poster %}
       {% if entry.poster contains '://' %}
       <a href="{{ entry.poster }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Poster</a>

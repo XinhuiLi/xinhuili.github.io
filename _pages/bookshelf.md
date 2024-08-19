@@ -40,12 +40,6 @@ Sooner or later, we all have to learn how to say goodbye to our loved ones.
 
 ---
 
-[The Worlds I See](https://www.goodreads.com/en/book/show/144405196) by Fei-Fei Li
-
-Fei Fei's personal journey made me believe once more how far curiosity can lead one to explore.
-
----
-
 [Projections](https://www.goodreads.com/en/book/show/55411738) by Karl Deisseroth
 
 Known as the inventor of optogenetics, Karl described his personal stories with psychiatric patients in poetic language. It reminds me that what I am working with every day are not just data points, but unique individuals with their struggles.
@@ -84,3 +78,15 @@ Creative and comprehensive work to understand visual perception.
 ---
 
 [The Feynman Lectures on Physics](https://www.feynmanlectures.caltech.edu/)
+
+---
+
+[The Road to Reality: A Complete Guide to the Laws of the Universe](https://www.goodreads.com/book/show/10638.The_Road_to_Reality) by Roger Penrose
+
+---
+
+[The Structure of Scientific Revolutions](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
+
+---
+
+[Relativity: The Special and the General Theory](https://www.goodreads.com/book/show/15852.Relativity) by Albert Einstein
