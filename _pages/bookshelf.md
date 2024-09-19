@@ -18,7 +18,7 @@ Yet it is not these gifts, nor the most determined ambition combined with irresi
 
 [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air) by Paul Kalanithi
 
-I started to read When Breath Becomes Air after [Krishna Shenoy](https://www.nature.com/articles/s41593-023-01294-8)'s passing. When I was obssessed with brain-computer interfaces, I always found the work from his lab inspiring and exciting. Krishna was a brilliant mentor, scientist and engineer. He is that person I want to be. Paul was a resident at Krishna's lab, as he said,
+I started to read When Breath Becomes Air after [Krishna Shenoy](https://www.nature.com/articles/s41593-023-01294-8)'s passing. When I was obssessed with brain-computer interfaces, I always found the work from his lab exciting and inspiring. Krishna was a brilliant mentor and scientist. Paul was a resident at Krishna's lab, as he said,
 
 "One could count on V to always choose the honest (and, often, self-effacing) way forward. While most scientists connived to publish in the most prestigious journals and get their names out there, V maintained that our only obligation was to be authentic to the scientific story and to tell it uncompromisingly."
 
@@ -42,7 +42,7 @@ Sooner or later, we all have to learn how to say goodbye to our loved ones.
 
 [Projections](https://www.goodreads.com/en/book/show/55411738) by Karl Deisseroth
 
-Known as the inventor of optogenetics, Karl described his personal stories with psychiatric patients in poetic language. It reminds me that what I am working with every day are not just data points, but unique individuals with their struggles.
+Known as the inventor of optogenetics, Karl described his personal stories with psychiatric patients in poetic language. It reminds me that what I am working with every day are not just data points, but unique individuals with their own struggles.
 
 ---
 

@@ -12,7 +12,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-icon: 🍃 # the emoji used as the favicon
+icon: 🌱 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
@@ -32,7 +32,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+max_width: 900px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -49,7 +49,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: XinhuiLi # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: xin_hui_li # your Twitter handle
+x_username: xin_hui_li # your Twitter handle
 linkedin_username: xinhui-li # your LinkedIn user name
 scholar_userid: https://scholar.google.com/citations?user=YKtWorEAAAAJ&hl=en # your Google Scholar ID
 orcid_id: # your ORCID ID 0000-0001-5604-9493 
@@ -100,7 +100,7 @@ collections:
   #   output: true
   #   permalink: /projects/:path/
 
-news_limit: 25
+news_limit: 30
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
