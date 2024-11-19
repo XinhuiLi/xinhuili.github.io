@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-09-19 08:43:00-0000
+date: 2024-11-19 08:33:00-0000
 inline: true
 ---
 
-Our paper, A method for multimodal IVA fusion within a MISA unified model reveals markers of age, sex, cognition, and schizophrenia in large neuroimaging studies, is accepted for publication in Human Brain Mapping!
+Our paper, [A Method for Multimodal IVA Fusion Within a MISA Unified Model Reveals Markers of Age, Sex, Cognition, and Schizophrenia in Large Neuroimaging Studies](https://doi.org/10.1002/hbm.70037), is published in Human Brain Mapping!
