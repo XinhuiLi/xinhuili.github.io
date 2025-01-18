@@ -45,14 +45,6 @@ Sooner or later, we all have to learn how to say goodbye to our loved ones.
 Known as the inventor of optogenetics, Karl described his personal stories with psychiatric patients in poetic language. It reminds me that what I am working with every day are not just data points, but unique individuals with their own struggles.
 
 ---
-
-[On Intelligence](https://numenta.com/resources/on-intelligence/) by Jeff Hawkins
-
----
-
-[A Thousand Brains](https://numenta.com/a-thousand-brains-by-jeff-hawkins) by Jeff Hawkins
-
----
 [Analog VLSI and Neural Systems](https://www.goodreads.com/en/book/show/1712205) by Carver Mead
 
 "The viewpoint described in this book is the result of my conviction that the nervous system of even a very simple animal contains computing paradigms that are orders of magnitude more effective than are those found in systems made by humans." 
@@ -73,6 +65,14 @@ Creative and comprehensive work to understand visual perception.
 
 ---
 
+[On Intelligence](https://numenta.com/resources/on-intelligence/) by Jeff Hawkins
+
+---
+
+[A Thousand Brains](https://numenta.com/a-thousand-brains-by-jeff-hawkins) by Jeff Hawkins
+
+---
+
 [You and Your Research](https://www.cs.virginia.edu/~robins/YouAndYourResearch.html) by Richard Hamming
 
 ---
@@ -86,7 +86,3 @@ Creative and comprehensive work to understand visual perception.
 ---
 
 [The Structure of Scientific Revolutions](https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions) by Thomas S. Kuhn
-
----
-
-[Relativity: The Special and the General Theory](https://www.goodreads.com/book/show/15852.Relativity) by Albert Einstein
