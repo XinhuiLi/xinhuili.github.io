@@ -16,6 +16,16 @@ Yet it is not these gifts, nor the most determined ambition combined with irresi
 
 ---
 
+"Choosing problems is the primary determinant of what one accomplishes in science."
+
+"Physics was a point of view that the world around us is, with effort, ingenuity, and adequate resources, understandable in a predictive and reasonably quantitative fashion. Being a physicist is a dedication to a quest for this kind of understanding."
+
+"How mind emerges from brain is to me the deepest question posed by our humanity."
+
+<div style="text-align: right"> — John Hopfield</div>
+
+---
+
 [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air) by Paul Kalanithi
 
 I started to read When Breath Becomes Air after [Krishna Shenoy](https://www.nature.com/articles/s41593-023-01294-8)'s passing. When I was obssessed with brain-computer interfaces, I always found the work from his lab exciting and inspiring. Krishna was a brilliant mentor and scientist. Paul was a resident at Krishna's lab, as he said,
