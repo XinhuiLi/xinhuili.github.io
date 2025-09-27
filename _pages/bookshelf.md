@@ -20,7 +20,7 @@ Yet it is not these gifts, nor the most determined ambition combined with irresi
 
 "Physics was a point of view that the world around us is, with effort, ingenuity, and adequate resources, understandable in a predictive and reasonably quantitative fashion. Being a physicist is a dedication to a quest for this kind of understanding."
 
-"How mind emerges from brain is to me the deepest question posed by our humanity."
+"How mind emerges from brain is to me the deepest question posed by our humanity. Definitely A PROBLEM."
 
 <div style="text-align: right"> — John Hopfield</div>
 
@@ -32,7 +32,7 @@ I started to read When Breath Becomes Air after [Krishna Shenoy](https://www.nat
 
 "One could count on V to always choose the honest (and, often, self-effacing) way forward. While most scientists connived to publish in the most prestigious journals and get their names out there, V maintained that our only obligation was to be authentic to the scientific story and to tell it uncompromisingly."
 
-At the beginning I wanted to learn about Krishna's stories from his book, but then I was deeply touched by Paul's stories. Paul described his experience after he was diagnosed with lung cancer in his thirties. His pursuit of the meaning of life, his belief in the value of literature, and his realistic idealism deeply resonate with me.
+At the beginning I wanted to learn about Krishna's stories from his book, but then I was touched by Paul's stories. Paul described his experience after he was diagnosed with lung cancer in his thirties. His pursuit of the meaning of life, his belief in the value of literature, and his realistic idealism deeply resonate with me.
 
 "I was driven less by achievement than by trying to understand, in earnest: What makes human life meaningful? I still felt literature provided the best account of the life of the mind, while neuroscience laid down the most elegant rules of the brain."
 
