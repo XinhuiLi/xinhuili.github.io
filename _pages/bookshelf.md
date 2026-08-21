@@ -63,23 +63,23 @@ To me, the opening line of the book sounds like an undeniable fact, an unsolved 
 
 ---
 
-[Principles of Neural Design](https://mitpress.mit.edu/books/principles-neural-design) by Peter Sterling and Simon Laughlin
+[Principles of Neural Design](https://www.goodreads.com/book/show/34540179) by Peter Sterling and Simon Laughlin
 
 Principles of neural design to shed light on how brains use space and power efficiently.
 
 ---
 
-[Vision](https://mitpress.mit.edu/books/vision) by David Marr
+[Vision](https://www.goodreads.com/en/book/show/1880766) by David Marr
 
 Creative and comprehensive work to understand visual perception.
 
 ---
 
-[On Intelligence](https://numenta.com/resources/on-intelligence/) by Jeff Hawkins
+[On Intelligence](https://www.goodreads.com/book/show/27539) by Jeff Hawkins
 
 ---
 
-[A Thousand Brains](https://numenta.com/a-thousand-brains-by-jeff-hawkins) by Jeff Hawkins
+[A Thousand Brains](https://www.goodreads.com/en/book/show/54503521) by Jeff Hawkins
 
 ---
 
