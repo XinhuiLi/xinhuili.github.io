@@ -16,9 +16,9 @@ Yet it is not these gifts, nor the most determined ambition combined with irresi
 
 ---
 
-"Choosing problems is the primary determinant of what one accomplishes in science."
-
 "Physics was a point of view that the world around us is, with effort, ingenuity, and adequate resources, understandable in a predictive and reasonably quantitative fashion. Being a physicist is a dedication to a quest for this kind of understanding."
+
+"Choosing problems is the primary determinant of what one accomplishes in science."
 
 "How mind emerges from brain is to me the deepest question posed by our humanity. Definitely A PROBLEM."
 
@@ -28,19 +28,19 @@ Yet it is not these gifts, nor the most determined ambition combined with irresi
 
 [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air) by Paul Kalanithi
 
-I started to read When Breath Becomes Air after [Krishna Shenoy](https://www.nature.com/articles/s41593-023-01294-8)'s passing. When I was obssessed with brain-computer interfaces, I always found the work from his lab exciting and inspiring. Krishna was a brilliant mentor and scientist. Paul was a resident at Krishna's lab, as he said,
+I started to read *When Breath Becomes Air* after [Krishna Shenoy](https://www.nature.com/articles/s41593-023-01294-8)'s passing. When I was obsessed with brain-computer interfaces, I always found his lab's work exciting and inspiring. Krishna was a brilliant mentor and scientist. Paul was a resident in Krishna's lab, as he said,
 
 "One could count on V to always choose the honest (and, often, self-effacing) way forward. While most scientists connived to publish in the most prestigious journals and get their names out there, V maintained that our only obligation was to be authentic to the scientific story and to tell it uncompromisingly."
 
-At the beginning I wanted to learn about Krishna's stories from his book, but then I was touched by Paul's stories. Paul described his experience after he was diagnosed with lung cancer in his thirties. His pursuit of the meaning of life, his belief in the value of literature, and his realistic idealism deeply resonate with me.
+Initially, I wanted to learn about Krishna through Paul's book, but then I was gradually touched by Paul's own story. Paul described his experience after being diagnosed with lung cancer in his thirties. His pursuit of the meaning of life, his belief in the value of literature, and his realistic idealism deeply resonated with me.
 
 "I was driven less by achievement than by trying to understand, in earnest: What makes human life meaningful? I still felt literature provided the best account of the life of the mind, while neuroscience laid down the most elegant rules of the brain."
 
-Paul couldn't finish the book. His wife Lucy wrote the last chapter for him, from which I saw the positive meaning of death. 
+Paul couldn't finish the book. His wife, Lucy, wrote the last chapter for him, through which I came to see meaning in death.
 
 "Although these last few years have been wrenching and difficult—sometimes almost impossible—they have also been the most beautiful and profound of my life, requiring the daily act of holding life and death, joy and pain in balance and exploring new depths of gratitude and love."
 
-I become more determined and fearless to continue Krishna's, Paul's, and many others' pursuit of a fundamental understanding of neuroscience, and the meaning of life.
+I have become more determined and fearless in continuing Krishna's, Paul's, and many others' pursuit of a fundamental understanding of neuroscience and the meaning of life.
 
 ---
 
@@ -59,19 +59,19 @@ Known as the inventor of optogenetics, Karl described his personal stories with 
 
 "The viewpoint described in this book is the result of my conviction that the nervous system of even a very simple animal contains computing paradigms that are orders of magnitude more effective than are those found in systems made by humans." 
 
-To me, the opening line of the book sounds like an undeniable fact, an unsolved mystery, and one of the most challenging missions in the post Moore's law era. As a pioneer of neuromorphic computing, Carver explained the connections between neural circuits and electrical circuits, and described his attempts to develop computationally efficient VLSI inspired by the organizing principles of neural systems.
+To me, the opening line of the book sounds like an undeniable fact, an unsolved mystery, and one of the most challenging missions in the post-Moore's law era. As a pioneer of neuromorphic computing, Carver explained the connections between neural circuits and electrical circuits, and described his attempts to develop computationally efficient VLSI inspired by the organizing principles of neural systems.
 
 ---
 
 [Principles of Neural Design](https://www.goodreads.com/book/show/34540179) by Peter Sterling and Simon Laughlin
 
-Principles of neural design to shed light on how brains use space and power efficiently.
+This book sheds light on how brains use space and power efficiently.
 
 ---
 
 [Vision](https://www.goodreads.com/en/book/show/1880766) by David Marr
 
-Creative and comprehensive work to understand visual perception.
+A creative and comprehensive work on visual perception.
 
 ---
 
