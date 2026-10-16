@@ -50,9 +50,15 @@ Sooner or later, we all have to learn how to say goodbye to our loved ones.
 
 ---
 
+[Trusting a map in her own head](https://www.kavliprize.org/doris-tsao-autobiography) as told by Doris Tsao
+
+Doris is one of my favorite neuroscientists. Her work, like music and poetry, often comforts me.
+
+---
+
 [Projections](https://www.goodreads.com/en/book/show/55411738) by Karl Deisseroth
 
-Known as the inventor of optogenetics, Karl described his personal stories with psychiatric patients in poetic language. It reminds me that what I am working with every day are not just data points, but unique individuals with their own struggles.
+Known as the inventor of optogenetics, Karl described his personal stories with psychiatric patients in poetic language. He reminds me that the data I work with every day are not just vectors or matrices, but unique individuals with their own struggles.
 
 ---
 [Analog VLSI and Neural Systems](https://www.goodreads.com/en/book/show/1712205) by Carver Mead
@@ -65,13 +71,13 @@ To me, the opening line of the book sounds like an undeniable fact, an unsolved 
 
 [Principles of Neural Design](https://www.goodreads.com/book/show/34540179) by Peter Sterling and Simon Laughlin
 
-This book sheds light on how brains use space and power efficiently.
+A beautiful book about how the brain uses space and power efficiently.
 
 ---
 
 [Vision](https://www.goodreads.com/en/book/show/1880766) by David Marr
 
-A creative and comprehensive work on visual perception.
+A creative and comprehensive book on visual perception.
 
 ---
 
